@@ -39,5 +39,3 @@ The python scripts are:
     
 Also there is a Power BI file 'transactions_dashboard.pbix'showing the 
 transactions in the past 20 minutes.
-
-![Screen capture of the dashboard.](/image/transactions_dashboard.png "Screen capture of the dashboard")
